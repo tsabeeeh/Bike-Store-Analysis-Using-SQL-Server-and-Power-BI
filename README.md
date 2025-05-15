@@ -1,12 +1,13 @@
  🚴 Bike Store
 
 ## 📄 Project Overview  
-This project focuses on analyzing sales and performance data for a bike store using **Power BI**. The dashboard provides insights into revenue, product performance, and customer segmentation.
+This project focuses on analyzing sales and performance data for a bike store using **SQL Server && Power BI **. The dashboard provides insights into revenue, product performance, and customer segmentation.
 
 ---
 
 ## 🛠️ Tools Used  
 - **Power BI**: For data visualization and creating an interactive dashboard.
+- **SQL Server**: For data cleaning & data analysis 
 
 ---
 
